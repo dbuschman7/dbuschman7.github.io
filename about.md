@@ -12,6 +12,6 @@ I value the quality of the solutions I craft for their building, testing, and ma
 
 I am always on the lookout for new technologies and solutions that truly simplify the development and maintenance of applications, and not just talk hype. Every decrease in development time will lead to increased ROI for customers and my company.
 
-As a developer, I always strive to leave any code I create or modify at least a little bit better than when I began working on it. As a leader, I want to always make my environment more productive and profitable.
+As a developer, I always strive to leave any code I create or modify at least a little bit better than when I began working on it.
 
-
+As a leader, I want to always make my environment more productive and profitable. 
